@@ -1,6 +1,7 @@
 # SafeTouch – One-Tap Smart Personal Safety System  
-**SkyHack Round-2 Submission**  
-Developer: Jagriti Singh
+**SkyHack Round-2 Submission** 
+*Vision Empowered by Innovations*
+Developer: Jagriti Singh (Individual Contributor) 
 
 ---
 
