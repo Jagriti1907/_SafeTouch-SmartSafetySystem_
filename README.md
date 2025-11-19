@@ -67,8 +67,9 @@ Contains a Python script modeling key backend processes:
 - Guardian notification  
 - Automatic safety mode completion  
 
-This simulation validates system logic and shows how SafeTouch behaves in a real environment.
-link of python compiler 
+This simulation validates core system logic and demonstrates SafeTouch’s backend behavior. 
+(Run using any online Python compiler such as Programiz.)”
+link : 
 https://www.programiz.com/online-compiler/4TvzJkTTRWUYV
 
 ---
