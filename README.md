@@ -34,6 +34,9 @@ This folder contains all design assets created for SafeTouch:
 
 - **Flow Diagram** showing the complete system logic  
 - **Final Collage** displaying the entire UI sequence
+view the collage
+https://drive.google.com/file/d/1lnIT6HmwROg31WTVw-zBHKTAH7kQjqle/view?usp=drivesdk
+
 
 The UI follows a **neon futuristic theme**, optimized for clarity under urgent conditions.
 
